@@ -10,4 +10,4 @@ The purpose of this analysis is to determine if there is any positivity bias fro
 
 ### Summary:
 
-It doesn't appear that there is any positivity bias for reviews in the Vine program. In fact, there's an 11% higher probability that a non-vine reviwer will leave a 5-star review compared to a vine reviwer. Another analysis would be to test for negativity bias, running the same calculations but filtering the dataset for 1-star reviews instead of 5-star reviews.
+It doesn't appear that there is any positivity bias for reviews in the Vine program. In fact, there's an 11% higher probability that a non-vine reviwer will leave a 5-star review compared to a vine reviewer. Another analysis would be to test for negativity bias, running the same calculations but filtering the dataset for 1-star reviews instead of 5-star reviews.
